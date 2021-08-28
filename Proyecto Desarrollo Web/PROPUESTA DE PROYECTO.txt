@@ -1,0 +1,20 @@
+1. Marlon Romeo Miranda Navarro      0903-15-20723
+2. Kenia Anahi Orozco Orozco             0903-16-3658
+3. Juan Carlos López Fuentes              0903-15-13258
+
+
+Venta de cosmeticos "GLEALWAYS"
+ 
+Dentro de la pagina se tiene contemplado
+Clientes: Modulos:
+1. vista de productos
+2. categorias: apartado de labiales, creamas, ropa entre otros, como poder agregar al carrito
+3. Carrito de apartado de producto
+4. informacion de la pagina: noticias, videos relevantes de GLEALWAYS
+5. Atencion al cliente: chatbox y asesoria con videos.
+
+
+Admimistrador: Modulos
+1.agregar, modificar, eliminar
+2. vista previa de la pagina
+3. modulos por definir
